@@ -3,6 +3,8 @@
 # Description es
 Book: Java cómo programar, 10ed - Deitel & Deitel 2016
 Ejercicios del caso de estudio de GUI y gráficos 
+
+[Link al Codigo](https://github.com/Johan-Palacios/targetShootingAndFigures)
 ## Ejercicio 6.1
 Con el método fillOval, dibuje un tiro al blanco que alterne entre dos colores aleatorios, como en la figura 6.13. Use el constructor Color(int r, int g, int b) con argumentos aleatorios para generar colores aleatorios.
 
