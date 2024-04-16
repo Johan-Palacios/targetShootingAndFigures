@@ -1,4 +1,4 @@
-![image](https://github.com/Johan-Palacios/targetShootingAndFigures/assets/77251405/ddd2d58d-c7a9-4e75-8dff-80c26e6bd7c7)# Target Shooting and Random Figures
+# Target And Figures
 
 # Description es
 Book: Java cómo programar, 10ed - Deitel & Deitel 2016
